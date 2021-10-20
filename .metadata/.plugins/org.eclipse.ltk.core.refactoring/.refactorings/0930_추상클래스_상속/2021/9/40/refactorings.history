@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;실습문제/src/실습문제1&apos;&#x0D;&#x0A;- Original project: &apos;0930_추상클래스_상속&apos;&#x0D;&#x0A;- Destination element: &apos;실습문제/src/실습문제1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     실습문제.ex1.java&#x0D;&#x0A;     실습문제.ex2.java" description="Copy compilation units" destination="=실습문제/src&lt;실습문제1" element1="/src&lt;실습문제{ex1.java" element2="/src&lt;실습문제{ex2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1632984660816" units="2" version="1.0"/>
+</session>

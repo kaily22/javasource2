@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;1001_추상클래스실습&apos; to &apos;1001_추상클래스와 템플릿 메소드 응용하기&apos;&#x0D;&#x0A;- Original element: &apos;1001_추상클래스실습&apos;&#x0D;&#x0A;- Renamed element: &apos;1001_추상클래스실습&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;1001_추상클래스실습&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=1001_추상클래스실습" name="1001_추상클래스와 템플릿 메소드 응용하기" references="true" stamp="1633065404374" version="1.0"/>
+</session>

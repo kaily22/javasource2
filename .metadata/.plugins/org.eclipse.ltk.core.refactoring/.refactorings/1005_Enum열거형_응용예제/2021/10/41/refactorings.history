@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="true" comment="Infer generic type arguments on &apos;1005_Enum열거형_응용예제&apos;&#x0D;&#x0A;- Original project: &apos;1005_Enum열거형_응용예제&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Enum응용실습.PayGroup.java&#x0D;&#x0A;- Assume clone() returns an instance of the receiver type&#x0D;&#x0A;- Leave unconstrained type arguments raw" description="Infer generic type arguments" element1="/src&lt;Enum응용실습{PayGroup.java" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="true" stamp="1633413617712" version="1.0"/>
+</session>
